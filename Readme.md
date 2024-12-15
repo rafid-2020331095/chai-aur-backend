@@ -1,1 +1,5 @@
-#chai aur backend full sries
+# chai aur backend full sries
+
+this a backend series
+
+- [models link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkQyUUR0cWJqU05JSzdfaUV0Rm53TEVKT3VRQXxBQ3Jtc0tuaXYwMG9UYnlZa25idlNQcHBkLXktWWJvYzJwWnF6Tnlxb2lEdy1BRi16cFdmQkJ6a2hvVThjNmlpeUZJbFRIMG5DQlhuYWx4dWt2aDNpOENEaVNvT0U3Q3dxS2JDSF9neFVKQXpyb3FMcV9RQkUzUQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
