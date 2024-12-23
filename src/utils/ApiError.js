@@ -1,22 +1,22 @@
 class ApiError extends Error {
-    constructor(status, message="Something went wrong",
+    constructor(status, message = "Something went wrong",
         errors = [],
-        stack=""
-    ){
+        stack = ""
+    ) {
         super(message);
         this.status = status;
         this.data = null;
         this.message = message;
         this.success = false;
         this.errors = errors;
-        if(stack){
+        if (stack) {
             this.stack = stack;
         }
-        else{
+        else {
             Error.captureStackTrace(this, this.constructor);
         }
 
 
     }
 }
-export {ApiError};
+export { ApiError };
